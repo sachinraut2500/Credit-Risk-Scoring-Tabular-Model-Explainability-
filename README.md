@@ -18,7 +18,7 @@ German Credit Dataset (binary classification: Good vs Bad credit)
 - Input: encoded features like `Age`, `CreditAmount`, `Job`, `Housing`, etc.
 - Target: Creditworthiness (Good / Bad)
 
----
+----
 
 ## ⚙️ Requirements
 
